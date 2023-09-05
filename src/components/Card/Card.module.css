@@ -1,0 +1,16 @@
+.main {
+    width: 300px;
+   
+    
+}
+
+.main.red {
+    background-color: red;
+}
+
+.main.blue {
+    background-color: blue;
+}
+.image {
+    width: 300px;
+}
